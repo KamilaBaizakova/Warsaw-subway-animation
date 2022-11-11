@@ -31,5 +31,6 @@ ffmpeg -framerate 2 -pattern_type glob -i '* .png' -c: v libx264 -pix_fmt yuv420
 
 
 Generated animation using Python script 
-[![Watch the video] (https://i.imgur.com/vKb2F1B.png)](https://user-images.githubusercontent.com/72921900/201238668-11877481-445d-4f80-a3c1-4d189166ebf4.mp4)
+
+[Animacja-2linie-10pociagow.webm](https://user-images.githubusercontent.com/72921900/201239198-3065d98e-bbe5-41ff-b0ac-cd39f0b75b5e.webm)
 
